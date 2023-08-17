@@ -23,7 +23,6 @@ const Form = ({ onCalculate }) => {
         [input]: value,
       };
     });
-    console.log(userInput);
   };
 
   const resetHandler = () => {
